@@ -1,0 +1,5 @@
+requirements :
+1)streamlit
+2)joblib
+3)scikit-learn
+4)numpy
