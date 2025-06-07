@@ -1,5 +1,7 @@
-requirements :
-1)streamlit
-2)joblib
-3)scikit-learn
-4)numpy
+streamlit
+scikit-learn
+joblib
+numpy
+pandas
+matplotlib
+seaborn
